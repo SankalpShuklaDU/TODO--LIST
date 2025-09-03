@@ -1,2 +1,5 @@
 # TODO--LIST
-This is TODO - LIST &lt;br> which is created by using HTML, CSS and JAVASCRIPT.
+This is TODO - LIST Website.
+<br> which is created by using 
+<br> HTML, CSS and JAVASCRIPT.
+Owner - Sankalp Shukla
